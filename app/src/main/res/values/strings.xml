@@ -8,7 +8,7 @@
     <string name="new_poll"> नया पोल </string>
     <string name="post"> पोस्ट करें </string>
     <string name="post_duration_text"> अपने पोल को चलाएं :</string>
-    <string name="post_duration"> 1 दिन </string>
+    <string name="post_duration">1 दिन </string>
     <string name="max_text_length">40</string>
 
 </resources>
