@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PollApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ask_question"> अपने पोल का प्रश्न यहां लिखें ... </string>
+    <string name="option_1"> विकल्प 1 </string>
+    <string name="option_2"> विकल्प 2 </string>
+    <string name="new_poll"> नया पोल </string>
+    <string name="post"> पोस्ट करें </string>
+    <string name="post_duration_text"> अपने पोल को चलाएं :</string>
+    <string name="post_duration"> 1 दिन </string>
+    <string name="max_text_length">40</string>
+
+</resources>
